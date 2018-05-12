@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32227'
     url: http://www.gutenberg.org/2009/agents/32227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26745#Travels-in-Peru-on-the-Coast-in-the-Sierra-Across-the-Cordilleras-and-the-Andes-into-the-Prim_
 gutenberg_issued: '2008-10-03'
 gutenberg_type: Text
 identifiers:
