@@ -1,0 +1,34 @@
+_repo: Travels-in-Peru-on-the-Coast-in-the-Sierra-Across-the-Cordilleras-and-the-Andes-into-the-Prim__26745
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ross, Thomasina
+    gutenberg_agent_id: '26437'
+    url: http://www.gutenberg.org/2009/agents/26437
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tschudi, Johann Jakob von
+    alias: Tschudi, J. J. von (Johann Jakob)
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '32227'
+    url: http://www.gutenberg.org/2009/agents/32227
+description: ''
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- Description and travel'
+- !lcc 'F3401'
+- !lcsh 'Lima (Peru) -- Description and travel'
+title: Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the
+  Andes, into the Primeval Forests
+url: http://www.gutenberg.org/ebooks/26745
